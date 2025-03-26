@@ -31,7 +31,7 @@ To get started with development, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mnsrulz/mytradingview.git
+   git clone https://github.com/Xbener/mytradingview.git
    cd mytradingview
    ```
 
